@@ -13,7 +13,7 @@ body {
   cursor: pointer;
   transition: all 250ms ease;
   border-radius: 15px; /* Increased border radius for a softer look */
-  margin: 20px; /* Added some margin between blocks */
+  margin: 2vh; /* Added some margin between blocks */
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1); /* Added a subtle shadow for depth */
   display: flex; /* Added to center the text vertically and horizontally */
   align-items: center;
@@ -22,38 +22,38 @@ body {
 }
 
 .coll {
-  width: 600px;
-  height: 300px;
+  width: 40vw;
+  height: 20vh;
   background-color: rgb(86, 202, 255);
 }
 
 .coll-2 {
-  width: 700px;
-  height: 250px;
+  width: 45vw;
+  height: 15vh;
   background-color: rgb(11, 74, 168);
 }
 
 .coll-3 {
-  width: 750px;
-  height: 300px;
+  width: 50vw;
+  height: 20vh;
   background-color: rgb(71, 206, 18);
 }
 
 .coll-4 {
-  width: 600px;
-  height: 250px;
+  width: 40vw;
+  height: 15vh;
   background-color: rgb(255, 251, 0);
 }
 
 .coll-5 {
-  width: 700px;
-  height: 200px;
+  width: 45vw;
+  height: 10vh;
   background-color: rgb(45, 209, 127);
 }
 
 .coll-6 {
-  width: 900px;
-  height: 200px;
+  width: 60vw;
+  height: 10vh;
   background-color: rgb(193, 209, 45);
 }
 
